@@ -29,7 +29,7 @@
 <h2 >Pet Projects</h2>
 <p align="left">
 
-  <a href="https://github.com/Kelendis2/react-mesto-auth" target="_blank">
+  <a href="https://github.com/Kelendis2/react-mesto-api-full-gha" target="_blank">
     <img alt="проект Mesto — React Version" src="https://img.shields.io/badge/Mesto--React--Version-90dbf4?style=for-the-badge">
   </a>
   <a href="https://github.com/Kelendis2/mesto" target="_blank">

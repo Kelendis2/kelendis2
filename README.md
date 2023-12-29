@@ -8,7 +8,6 @@
 </p>
 <p>👩‍💻 Studying web development</p>
 <p>📝 I strive for a clean and beautiful code</p>
-<p>👩‍🎓 I graduated from Yandex.Practicum with a degree in Web Developer</p>
 <h2>Stack</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

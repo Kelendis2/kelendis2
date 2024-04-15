@@ -6,8 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFF7F2&background=BB2649&center=true&vCenter=true&width=435&lines=I+am+a+frontend-developer" alt="Typing SVG" />
   </a>
 </p>
-<p>👩‍💻 Studying web development</p>
-<p>📝 I strive for a clean and beautiful code</p>
+
 <h2>Stack</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

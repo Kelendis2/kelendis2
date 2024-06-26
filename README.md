@@ -46,8 +46,7 @@
 <p align="left">
 
   <a href="https://brodraw.com" target="_blank">
-    <img alt="проект Brodraw Version" src="[https://img.shields.io/badge/Mesto--React--Version-90dbf4?style=for-the-badge](https://img.shields.io/badge/Brodraw-8A2BE2?style=for-the-badge
-)">
+    <img alt="проект Brodraw Version" src="https://img.shields.io/badge/Brodraw-8A2BE2?style=for-the-badge">
   </a>
 
 </p>

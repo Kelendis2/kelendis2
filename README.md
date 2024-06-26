@@ -62,6 +62,9 @@
   <a href="mailto:kelendis2@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/94970622/214825481-dc54038e-5a13-46fa-9f82-d0cf4a435ed4.png" alt="gmail" height="30" width="30" />
   </a>
+   <a href="https://www.linkedin.com/in/kelendis/" target="blank">
+    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedIn" height="30" width="30" />
+  </a>
 </p>
                                                                                                         
 <h2 align="left">Статистика</h2>

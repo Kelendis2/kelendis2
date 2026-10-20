@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Karina Kebets 👋</h1>
 
-<h3 align="center">QA Engineer | SDET</h3>
+<h3 align="center">QA Engineer</h3>
 
 <p align="center">
   I test web applications and REST APIs, build reliable automation with Playwright and TypeScript,<br>
